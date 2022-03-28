@@ -1,0 +1,75 @@
+body{
+    margin-bottom:20px;
+}
+
+
+
+
+.logo{
+    font-family: 'Hurricane', cursive;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1300px;
+
+}
+.galerija{
+    margin-left:550px;
+    font-family:'Hurricane';
+}
+.margin-1{
+    margin-left: 300px;
+    background:transparent;
+    border:none;
+    color:black;
+}
+
+.carousel-item{
+    width: 40vw;
+    height: 60vh;
+   margin-left: 250px;
+}
+
+.color{
+    background-color:#FFEBF4;
+}
+.slike{
+    width: 20vw;
+}
+
+#slike{
+    width:15vw;
+}
+
+.color-label{
+    border-color:#0A0A0A;
+}
+.color-check{
+    color:black;
+}
+
+.margin-input{
+    margin-bottom:20px;
+}
+
+.size{
+    height:20vh;
+}
+
+.container-app{
+    margin: 0 auto;
+    width: 1600px;
+    display:flex;
+    justify-content:space-between;
+}
+
+.table-size{
+    height: 30vh;
+    width: 40vw;
+}
+
+.accordion-button{
+    background-color:#FFEBF4;
+}
+
